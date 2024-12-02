@@ -1,4 +1,4 @@
-# Face_Emotion
+# Real-time Facial Emotion Recog with emotion-based Music
 
 Overview
 This project implements a facial emotion detection system that integrates with Firebase Realtime Database for user data management. It uses a trained convolutional neural network model for emotion detection from facial expressions captured through a webcam. Based on the detected emotion, the program plays a related YouTube video. Additionally, it validates user email, updates visitor counts, and stores user data in Firebase.
